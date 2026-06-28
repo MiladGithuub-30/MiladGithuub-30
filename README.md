@@ -16,5 +16,5 @@
 - 🚀 Always learning
 
 - <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,unity,git,github,visualstudio,vscode,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cs,asp.dotnet,unity,git,github,visualstudio,html,css,js"/>
 </p>
