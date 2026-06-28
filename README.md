@@ -16,5 +16,5 @@
 - 🚀 Always learning
 
 - <p>
-<img src="https://skillicons.dev/icons?i=cs,asp.dotnet,unity,git,github,visualstudio,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=cs,![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white),unity,git,github,visualstudio,html,css,js"/>
 </p>
