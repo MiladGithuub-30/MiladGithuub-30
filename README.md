@@ -1,11 +1,12 @@
 # Hi 👋 I'm Milad
 
+I'm Milad Gholizadeh from Iran
+
 ### Computer Engineering Student
 
 💻 C# Developer
-
 🚀 Learning ASP.NET & Unity
-
+I'm currently learning and building projects in both backend and frontend development.(Full-Stack Development)
 
 ## 👨‍💻 About Me
 
