@@ -14,10 +14,13 @@
 - 🌐 Learning ASP.NET
 - 🎮 Learning Unity
 - 🚀 Always learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,git,github,visualstudio,vscode" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity" />
 </p>
