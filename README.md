@@ -9,3 +9,25 @@ I'm a Computer Engineering student focused on learning and building applications
 - 📚 Currently learning **ASP.NET Core**
 - 🧠 Improving my **OOP, Generics, Interfaces and Collections** skills
 - 💼 Open to **Internship Opportunities**
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Backend
+- C#
+- .NET
+- ASP.NET Core
+
+### 🌐 Web
+- HTML
+- CSS
+- JavaScript
+
+### 🗄️ Database
+- SQL Server
+
+### 🔧 Tools
+- Git
+- GitHub
+- Visual Studio
+
+### 🎮 Other
+- Unity
