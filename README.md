@@ -1,27 +1,32 @@
-# Hi 👋 I'm Milad
+# Hi, I'm Milad 👋
 
-I'm Milad Gholizadeh from Iran
+### C# Developer | .NET Developer
 
-### Computer Engineering Student
+I'm a Computer Engineering student focused on learning and building applications with **C# and .NET**.
 
-💻 C# Developer
-🚀 Learning ASP.NET & Unity
-I'm currently learning and building projects in both backend and frontend development.(Full-Stack Development)
+* 🔭 Currently learning **.NET and ASP.NET Core**
+* 💻 Interested in **Backend Development**
+* 📚 Continuously improving my **C# and software development skills**
+* 🚀 Building projects to strengthen my programming skills
+* 💼 Open to **Internship Opportunities**
 
-## 👨‍💻 About Me
+### 🛠️ Technologies & Tools
 
-- 🎓 Computer Engineering Student
-- 💻 C# Developer
-- 🌐 Learning ASP.NET
-- 🎮 Learning Unity
-- 🚀 Always learning
+* C#
+* .NET
+* ASP.NET Core
+* HTML
+* CSS
+* JavaScript
+* SQL Server
+* Git
+* GitHub
+* Unity
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="Unity" />
-</p>
+### 📌 Featured Projects
+
+Check out my repositories to see my C# projects and learning progress.
+
+### 📫 Connect With Me
+
+GitHub: **MiladGithuub-30**
